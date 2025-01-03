@@ -9,7 +9,7 @@ import Profile from "./client/Profile";
 import './App.css';
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import About from "./client/about.jsx";
+import About from "./client/About.jsx";
 import Basket from "./client/basket.jsx";
 
 function App() {
